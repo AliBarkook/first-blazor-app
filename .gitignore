@@ -1,1 +1,3 @@
-/dist
+.bzr/
+.bzrignore
+/BlazorApp/bin
